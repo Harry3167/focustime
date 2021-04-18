@@ -47,7 +47,7 @@ const styles = StyleSheet.create({
   }),
   title: {
     color: 'white',
-    fonstSize: fontSizes.lg,
+    fontSize: fontSizes.lg,
   },
   clearContainer: {
     alignItems: 'center',
